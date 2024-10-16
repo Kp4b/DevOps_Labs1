@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCalculator", "WebCalculator.csproj", "{4424101F-BDE7-41AA-88DC-DB296266B6F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{C3B532A8-1153-4F63-8412-9EF5C490CD3A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4424101F-BDE7-41AA-88DC-DB296266B6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4424101F-BDE7-41AA-88DC-DB296266B6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4424101F-BDE7-41AA-88DC-DB296266B6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4424101F-BDE7-41AA-88DC-DB296266B6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D36380-3457-4604-B23E-E2DFF201ECC9}
+	EndGlobalSection
+EndGlobal
