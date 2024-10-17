@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Linq;
 
-namespace Calculator
+namespace WebCalculator
 {
     public class FileCalculator : Calculator
     {

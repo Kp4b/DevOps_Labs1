@@ -1,7 +1,7 @@
-using Calculator.Interfaces;
+using WebCalculator.Interfaces;
 using System;
 
-namespace Calculator
+namespace WebCalculator
 {
     public struct Token : IOperationPriority, IMathOperation
     {

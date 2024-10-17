@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Collections.Generic;
 
 
-namespace Calculator
+namespace WebCalculator
 {
     public class Calculator
     {

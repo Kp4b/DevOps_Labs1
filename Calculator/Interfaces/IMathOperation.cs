@@ -1,4 +1,4 @@
-﻿namespace Calculator.Interfaces
+﻿namespace  WebCalculator.Interfaces
 {
     public interface IMathOperation
     {
